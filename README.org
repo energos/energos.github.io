@@ -1,0 +1,5 @@
+#+TITLE:   energos
+#+OPTIONS: toc:nil num:nil html-postamble:nil
+#+STARTUP: showall
+
+A whole lot of nothing
